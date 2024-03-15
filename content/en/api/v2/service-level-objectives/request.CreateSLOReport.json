@@ -1,0 +1,11 @@
+{
+  "data": {
+    "attributes": {
+      "from_ts": 1690901870,
+      "interval": "weekly",
+      "query": "slo_type:metric",
+      "timezone": "America/New_York",
+      "to_ts": 1706803070
+    }
+  }
+}
